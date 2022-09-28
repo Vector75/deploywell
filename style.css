@@ -1,0 +1,42 @@
+body {
+    background-image: url(stardew-valley-moon-landscape-pixel-art-hd-wallpaper-preview.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+    height: 680px;
+    
+}
+
+
+.mainimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    border-radius: 25px;
+    position:relative;
+    top: 20px;
+}
+
+.tickle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #dcc2f1;
+    font-size: 20px;
+    width: 50%;
+    position: relative;
+    left: 350px;
+    text-align: center;
+    top: 20px;
+    
+   
+}  
+.tickle2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #dcc2f1;
+    font-size: 25px;
+    width: 50%;
+    position: relative;
+    left: 350px;
+    text-align: center;
+    top: 20px;
+}
