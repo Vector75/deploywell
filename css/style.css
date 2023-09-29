@@ -1,9 +1,10 @@
 body {
-    background-image: url(../img/stardew-valley-moon-landscape-pixel-art-hd-wallpaper-preview.jpg);
+    background-image: url(../img/25.jpg);
  background-repeat: no-repeat;
  background-size: cover;
  
-    height: 680px;
+    height: auto;
+    width: auto;
     
 }
 
@@ -39,4 +40,27 @@ body {
     left: 350px;
     text-align: center;
     top: 20px;
+}
+body {
+    background-color: #333;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 35px;
+  }
+  
+  path {
+    fill: transparent;
+  }
+  
+  text {
+    fill: #ff94fd;
+  }
+
+  .victor{  position: relative;
+    left: 350px;
+bottom: 150px;}
+
+.HPBD{position: relative;
+    left: 350px;
+bottom: 950px;
+
 }
